@@ -1,0 +1,71 @@
+.card-blue {
+    height: fit-content;
+    margin-right: 35px;
+    border-top: 4px solid #50a2bc;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #59b4d1;
+    width: 300px;
+    margin-top: 43px;
+    height: fit-content;
+}
+
+.card-brown {
+    height: fit-content;
+    margin-right: 35px;
+    border-top: 4px solid #bb8451;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #d0935a;
+    width: 300px;
+    margin-top: 43px;
+    height: fit-content;
+}
+
+.card-purple {
+    height: fit-content;
+    margin-right: 35px;
+    border-top: 4px solid #8551bc;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #945ad1;
+    width: 300px;
+    margin-top: 43px;
+    height: fit-content;
+}
+
+.card-green {
+    height: fit-content;
+    margin-right: 35px;
+    border-top: 4px solid #50bb82;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #59d090;
+    width: 300px;
+    margin-top: 43px;
+    height: fit-content;
+}
+
+.img-title {
+    display: flex;
+    vertical-align: middle;
+    gap: 10px;
+}
+
+.cardOutside-title-white {
+    color: white;
+    margin: 0;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: -2%;
+}
+
+.cardOutside-title-black {
+    color: black;
+    margin: 0;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18.75px;
+    letter-spacing: -2%;
+}

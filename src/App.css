@@ -1,0 +1,14 @@
+a {
+  line-height: 21px;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  color: #171717;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+
+.outside-cards {
+  display: flex;
+  justify-content: space-between;
+}
